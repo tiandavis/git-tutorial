@@ -1,0 +1,11 @@
+# App configuration settings
+config.js
+
+# Temporary directories
+tmp/
+
+# OS
+.DS_Store
+thumbs.db
+
+
